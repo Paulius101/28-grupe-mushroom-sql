@@ -1,7 +1,6 @@
 {
   "name": "49-taxi-sql",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "mysql2": "^2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-end-by-rimantas/28-grupe-mushroom-sql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/front-end-by-rimantas/28-grupe-mushroom-sql/issues"
+  },
+  "homepage": "https://github.com/front-end-by-rimantas/28-grupe-mushroom-sql#readme",
+  "description": ""
 }

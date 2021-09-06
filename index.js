@@ -7,7 +7,7 @@ app.init = async () => {
     const connection = await mysql.createConnection({
         host: 'localhost',
         user: 'root',
-        database: 'your_database_name',
+        database: 'mushroom',
     });
 
     let sql = '';
